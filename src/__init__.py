@@ -1,0 +1,1 @@
+"""Pacote de ingestão e persistência de dados de ações."""
