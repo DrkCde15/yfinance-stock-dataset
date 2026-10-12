@@ -1,0 +1,14 @@
+# Dados locais
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Databricks
+*.dbfs
+
+# Ambientes virtuais
+.venv/
+venv/
